@@ -69,7 +69,7 @@ var userNumber = setTimeout(function() {
     alert("Hai indovinato " + numberFindIt.length + " numeri su 5");
     alert("I numeri sono : " + numberFindIt);
 
-}, 1000); // TODO : cambiare in 30 secondi
+}, 30000); // TODO : cambiare in 30 secondi
 
 console.log(arrayNumberUser);
 
